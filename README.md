@@ -58,7 +58,7 @@ Each machine has a Q&A document with:
 4. Review areas where you scored low
 
 **For Practice:**
-1. Spawn the machine on HackTheBox
+1. Spawn the machine on HackTheBox: Create a account here: https://www.hackthebox.com/
 2. Try solving it with just the attack chain summary
 3. Compare your approach to the documented method
 
