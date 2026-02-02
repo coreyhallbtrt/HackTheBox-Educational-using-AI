@@ -1,6 +1,6 @@
 # HackTheBox Educational Writeups (using AI)
 
-This repository will be a collection of HackTheBox machine writeups on hacking with a A.I assistant!!! I used Claude Opus 4.5. These writeups focus on teaching and not just showing what commands were run, but explaining why each step matters and how defenders can protect against these techniques. I believe that A.I can be used as a great teacher/educator if used in a educational way!
+This repository will be a collection of HackTheBox machine writeups on hacking with a A.I assistant!!! I used Claude Opus 4.5 to physical hack. These writeups focus on teaching and not just showing what commands were run, but explaining why each step matters and how defenders can protect against these techniques. I believe that A.I can be used as a great teacher/educator if used in a educational way!
 
 ## Purpose
 
