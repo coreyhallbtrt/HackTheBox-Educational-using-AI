@@ -1,6 +1,6 @@
 # HackTheBox Educational Writeups (using AI)
 
-A collection of HackTheBox machine writeups created with Claude AI. These writeups focus on teaching - not just showing what commands were run, but explaining why each step matters and how defenders can protect against these techniques.
+This repository will be a collection of HackTheBox machine writeups on hacking with a A.I assistant!!! I used Claude Opus 4.5. These writeups focus on teaching and not just showing what commands were run, but explaining why each step matters and how defenders can protect against these techniques. I believe that A.I can be used as a great teacher/educator if used in a educational way!
 
 ## Purpose
 
@@ -12,7 +12,7 @@ These machines were hacked using **Claude Opus 4.5** through [Claude Code](https
 
 ## AI as a Hacking Partner
 
-This project shows how AI can work as a collaborative partner in penetration testing. Instead of replacing skill, AI adds to it:
+This project shows how AI can work as a collaborative partner in penetration testing. AI adds to it:
 
 - **Research** - Quickly finding relevant CVEs, techniques, and patterns
 - **Explanations** - Breaking down complex vulnerabilities into clear concepts
@@ -45,7 +45,7 @@ Each machine has a Q&A document with:
 
 | Machine | Difficulty | Key Techniques | Writeup | Q&A |
 |---------|------------|----------------|---------|-----|
-| Facts | Medium | Path Traversal, SSH Key Cracking, Facter sudo abuse | [Writeup](MACHINES/Facts/Facts_Educational_writeup.md) | [Study Questions](MACHINES/Facts/Facts_Study_Questions.md) |
+| Facts | Easy | Path Traversal, SSH Key Cracking, Facter sudo abuse | [Writeup](MACHINES/Facts/Facts_Educational_writeup.md) | [Study Questions](MACHINES/Facts/Facts_Study_Questions.md) |
 
 ## How to Use This
 
