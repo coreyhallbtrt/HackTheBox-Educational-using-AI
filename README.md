@@ -8,7 +8,9 @@ This repository is a learning resource for anyone interested in cybersecurity.
 
 ## The AI Behind This
 
-These machines were hacked using **Claude Opus 4.5** through [Claude Code](https://claude.ai/claude-code), Anthropic's CLI tool. Claude Opus 4.5 assisted with every phase - from reconnaissance and vulnerability research to exploitation and privilege escalation. The AI helped identify attack vectors, explain vulnerabilities, suggest next steps when stuck, and document everything in an educational format.
+These machines were hacked using **Claude Opus 4.5** through [Claude Code](https://claude.com/product/claude-code), Anthropic's CLI tool. Claude Opus 4.5 assisted with every phase - from reconnaissance and vulnerability research to exploitation and privilege escalation. The AI helped identify attack vectors, explain vulnerabilities, suggest next steps when stuck, and document everything in an educational format. 
+
+I would also suggest trying different A.I's and get a feel for which one you feel the best working with!! 
 
 ## AI as a Hacking Partner
 
