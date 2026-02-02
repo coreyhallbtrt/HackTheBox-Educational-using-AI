@@ -1,0 +1,35 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Session/auth files (sensitive)
+*_cookies.txt
+*session*.txt
+auth_*.txt
+
+# John the Ripper pot files
+*.pot
+
+# Large scan outputs (optional - remove if you want to include)
+# *.xml
+# *.gnmap
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Personal notes that shouldn't be shared
+personal_notes.txt
+TODO.txt
