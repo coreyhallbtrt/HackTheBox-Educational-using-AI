@@ -1,8 +1,8 @@
 # Facts - Educational Writeup
 
-**IP:** 10.129.8.77
+**Machine:** Facts
 **OS:** Linux
-**Difficulty:** Medium
+**Difficulty:** Easy
 **Date Completed:** 2026-02-01
 
 ---
